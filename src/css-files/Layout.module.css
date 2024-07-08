@@ -1,0 +1,8 @@
+.appContent {
+  padding-left: var(--navigation-width);
+  min-width: 100%;
+}
+
+.main {
+  min-height: calc(100vh - var(--header-height));
+}
